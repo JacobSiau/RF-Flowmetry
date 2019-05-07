@@ -1,0 +1,216 @@
+
+A111 Initialized
+Running distance peak detector in blocking mode
+Free space absolute offset: 2 mm
+Actual start: 100 mm
+Actual length: 500 mm
+Actual end: 600 mm
+
+Distance detector: Reflections: 0. Seq. nr: 1. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 2. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 3. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 4. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 5. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 6. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 7. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 8. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 9. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 10. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 11. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 12. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 13. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 14. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 15. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 16. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 17. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 18. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 19. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 20. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 21. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 22. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 23. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 24. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 25. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 26. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 27. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 28. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 29. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 30. (100-600 mm): 176 mm (92)
+Distance detector: Reflections: 0. Seq. nr: 31. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 32. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 33. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 34. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 35. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 36. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 37. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 38. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 39. (100-600 mm): 163 mm (44)
+Distance detector: Reflections: 1. Seq. nr: 40. (100-600 mm): 161 mm (536)
+Distance detector: Reflections: 1. Seq. nr: 41. (100-600 mm): 159 mm (748)
+Distance detector: Reflections: 1. Seq. nr: 42. (100-600 mm): 156 mm (900)
+Distance detector: Reflections: 1. Seq. nr: 43. (100-600 mm): 154 mm (1116)
+Distance detector: Reflections: 1. Seq. nr: 44. (100-600 mm): 154 mm (436)
+Distance detector: Reflections: 0. Seq. nr: 45. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 46. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 47. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 48. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 49. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 50. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 51. (100-600 mm): 171 mm (276)
+Distance detector: Reflections: 1. Seq. nr: 52. (100-600 mm): 169 mm (528)
+Distance detector: Reflections: 1. Seq. nr: 53. (100-600 mm): 163 mm (1004)
+Distance detector: Reflections: 1. Seq. nr: 54. (100-600 mm): 152 mm (656)
+Distance detector: Reflections: 1. Seq. nr: 55. (100-600 mm): 143 mm (1172)
+Distance detector: Reflections: 1. Seq. nr: 56. (100-600 mm): 138 mm (2012)
+Distance detector: Reflections: 1. Seq. nr: 57. (100-600 mm): 134 mm (2124)
+Distance detector: Reflections: 1. Seq. nr: 58. (100-600 mm): 138 mm (2268)
+Distance detector: Reflections: 1. Seq. nr: 59. (100-600 mm): 137 mm (1244)
+Distance detector: Reflections: 1. Seq. nr: 60. (100-600 mm): 135 mm (524)
+Distance detector: Reflections: 0. Seq. nr: 61. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 62. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 63. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 64. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 65. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 66. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 67. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 68. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 69. (100-600 mm): 130 mm (200)
+Distance detector: Reflections: 1. Seq. nr: 70. (100-600 mm): 128 mm (996)
+Distance detector: Reflections: 1. Seq. nr: 71. (100-600 mm): 127 mm (1444)
+Distance detector: Reflections: 1. Seq. nr: 72. (100-600 mm): 126 mm (1684)
+Distance detector: Reflections: 1. Seq. nr: 73. (100-600 mm): 126 mm (1796)
+Distance detector: Reflections: 1. Seq. nr: 74. (100-600 mm): 126 mm (1556)
+Distance detector: Reflections: 1. Seq. nr: 75. (100-600 mm): 124 mm (1548)
+Distance detector: Reflections: 1. Seq. nr: 76. (100-600 mm): 125 mm (1448)
+Distance detector: Reflections: 1. Seq. nr: 77. (100-600 mm): 123 mm (1704)
+Distance detector: Reflections: 1. Seq. nr: 78. (100-600 mm): 122 mm (1788)
+Distance detector: Reflections: 1. Seq. nr: 79. (100-600 mm): 121 mm (1964)
+Distance detector: Reflections: 1. Seq. nr: 80. (100-600 mm): 120 mm (2716)
+Distance detector: Reflections: 1. Seq. nr: 81. (100-600 mm): 118 mm (3460)
+Distance detector: Reflections: 1. Seq. nr: 82. (100-600 mm): 116 mm (3868)
+Distance detector: Reflections: 1. Seq. nr: 83. (100-600 mm): 116 mm (4388)
+Distance detector: Reflections: 1. Seq. nr: 84. (100-600 mm): 116 mm (4332)
+Distance detector: Reflections: 1. Seq. nr: 85. (100-600 mm): 116 mm (4348)
+Distance detector: Reflections: 1. Seq. nr: 86. (100-600 mm): 116 mm (4252)
+Distance detector: Reflections: 1. Seq. nr: 87. (100-600 mm): 116 mm (4196)
+Distance detector: Reflections: 1. Seq. nr: 88. (100-600 mm): 115 mm (3876)
+Distance detector: Reflections: 1. Seq. nr: 89. (100-600 mm): 114 mm (3388)
+Distance detector: Reflections: 1. Seq. nr: 90. (100-600 mm): 114 mm (2748)
+Distance detector: Reflections: 1. Seq. nr: 91. (100-600 mm): 113 mm (2324)
+Distance detector: Reflections: 1. Seq. nr: 92. (100-600 mm): 112 mm (2304)
+Distance detector: Reflections: 1. Seq. nr: 93. (100-600 mm): 114 mm (2172)
+Distance detector: Reflections: 1. Seq. nr: 94. (100-600 mm): 116 mm (1476)
+Distance detector: Reflections: 1. Seq. nr: 95. (100-600 mm): 124 mm (1764)
+Distance detector: Reflections: 1. Seq. nr: 96. (100-600 mm): 124 mm (972)
+Distance detector: Reflections: 1. Seq. nr: 97. (100-600 mm): 126 mm (556)
+Distance detector: Reflections: 1. Seq. nr: 98. (100-600 mm): 127 mm (1572)
+Distance detector: Reflections: 1. Seq. nr: 99. (100-600 mm): 129 mm (1852)
+Distance detector: Reflections: 1. Seq. nr: 100. (100-600 mm): 129 mm (972)
+Running distance peak detector in blocking mode with estimated threshold
+Free space absolute offset: 2 mm
+Actual start: 100 mm
+Actual length: 500 mm
+Actual end: 600 mm
+
+Estimating threshold...
+Estimating threshold done...
+Distance detector: Reflections: 0. Seq. nr: 102. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 103. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 104. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 105. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 106. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 107. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 108. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 109. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 110. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 111. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 112. (100-600 mm): 330 mm (39)
+Distance detector: Reflections: 0. Seq. nr: 113. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 114. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 115. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 116. (100-600 mm): 285 mm (43)
+Distance detector: Reflections: 3. Seq. nr: 117. (100-600 mm): 276 mm (135), 284 mm (224), 580 mm (17)
+Distance detector: Reflections: 2. Seq. nr: 118. (100-600 mm): 271 mm (256), 278 mm (262)
+Distance detector: Reflections: 2. Seq. nr: 119. (100-600 mm): 272 mm (355), 278 mm (290)
+Distance detector: Reflections: 2. Seq. nr: 120. (100-600 mm): 271 mm (382), 278 mm (298)
+Distance detector: Reflections: 3. Seq. nr: 121. (100-600 mm): 270 mm (417), 278 mm (306), 581 mm (28)
+Distance detector: Reflections: 2. Seq. nr: 122. (100-600 mm): 267 mm (435), 278 mm (314)
+Distance detector: Reflections: 3. Seq. nr: 123. (100-600 mm): 264 mm (200), 271 mm (241), 278 mm (186)
+Distance detector: Reflections: 3. Seq. nr: 124. (100-600 mm): 263 mm (82), 271 mm (113), 278 mm (90)
+Distance detector: Reflections: 2. Seq. nr: 125. (100-600 mm): 270 mm (55), 278 mm (42)
+Distance detector: Reflections: 1. Seq. nr: 126. (100-600 mm): 273 mm (22)
+Distance detector: Reflections: 0. Seq. nr: 127. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 128. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 129. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 130. (100-600 mm): 
+Distance detector: Reflections: 2. Seq. nr: 131. (100-600 mm): 192 mm (45), 197 mm (41)
+Distance detector: Reflections: 2. Seq. nr: 132. (100-600 mm): 182 mm (41), 190 mm (107)
+Distance detector: Reflections: 2. Seq. nr: 133. (100-600 mm): 186 mm (119), 192 mm (123)
+Distance detector: Reflections: 2. Seq. nr: 134. (100-600 mm): 183 mm (44), 191 mm (72)
+Distance detector: Reflections: 3. Seq. nr: 135. (100-600 mm): 177 mm (26), 183 mm (48), 189 mm (52)
+Distance detector: Reflections: 6. Seq. nr: 136. (100-600 mm): 158 mm (35), 164 mm (69), 170 mm (70), 177 mm (26), 183 mm (14), 189 mm (12)
+Distance detector: Reflections: 4. Seq. nr: 137. (100-600 mm): 150 mm (25), 155 mm (76), 165 mm (188), 187 mm (7)
+Distance detector: Reflections: 3. Seq. nr: 138. (100-600 mm): 150 mm (225), 159 mm (287), 165 mm (276)
+Distance detector: Reflections: 5. Seq. nr: 139. (100-600 mm): 146 mm (115), 150 mm (217), 159 mm (252), 165 mm (204), 173 mm (62)
+Distance detector: Reflections: 5. Seq. nr: 140. (100-600 mm): 140 mm (50), 146 mm (115), 155 mm (203), 160 mm (204), 166 mm (132)
+Distance detector: Reflections: 5. Seq. nr: 141. (100-600 mm): 132 mm (10), 139 mm (69), 148 mm (110), 156 mm (150), 163 mm (152)
+Distance detector: Reflections: 5. Seq. nr: 142. (100-600 mm): 141 mm (33), 148 mm (6), 156 mm (55), 163 mm (85), 171 mm (39)
+Distance detector: Reflections: 4. Seq. nr: 143. (100-600 mm): 138 mm (35), 146 mm (44), 157 mm (51), 167 mm (18)
+Distance detector: Reflections: 5. Seq. nr: 144. (100-600 mm): 128 mm (26), 139 mm (43), 148 mm (21), 158 mm (27), 165 mm (13)
+Distance detector: Reflections: 5. Seq. nr: 145. (100-600 mm): 112 mm (67), 122 mm (47), 130 mm (36), 137 mm (54), 145 mm (93)
+Distance detector: Reflections: 5. Seq. nr: 146. (100-600 mm): 112 mm (180), 122 mm (120), 131 mm (91), 141 mm (80), 147 mm (61)
+Distance detector: Reflections: 6. Seq. nr: 147. (100-600 mm): 108 mm (180), 115 mm (222), 124 mm (207), 132 mm (90), 138 mm (71), 147 mm (47)
+Distance detector: Reflections: 5. Seq. nr: 148. (100-600 mm): 114 mm (277), 121 mm (247), 127 mm (151), 139 mm (33), 147 mm (15)
+Distance detector: Reflections: 4. Seq. nr: 149. (100-600 mm): 110 mm (120), 119 mm (153), 127 mm (103), 138 mm (17)
+Distance detector: Reflections: 3. Seq. nr: 150. (100-600 mm): 117 mm (33), 126 mm (52), 139 mm (12)
+Distance detector: Reflections: 0. Seq. nr: 151. (100-600 mm): 
+Distance detector: Reflections: 3. Seq. nr: 152. (100-600 mm): 104 mm (52), 112 mm (57), 118 mm (21)
+Distance detector: Reflections: 0. Seq. nr: 153. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 154. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 155. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 156. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 157. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 158. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 159. (100-600 mm): 394 mm (13)
+Distance detector: Reflections: 1. Seq. nr: 160. (100-600 mm): 112 mm (8)
+Distance detector: Reflections: 0. Seq. nr: 161. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 162. (100-600 mm): 
+Distance detector: Reflections: 5. Seq. nr: 163. (100-600 mm): 113 mm (28), 119 mm (8), 126 mm (111), 132 mm (125), 140 mm (79)
+Distance detector: Reflections: 4. Seq. nr: 164. (100-600 mm): 115 mm (10), 125 mm (150), 133 mm (229), 138 mm (180)
+Distance detector: Reflections: 3. Seq. nr: 165. (100-600 mm): 133 mm (291), 138 mm (244), 383 mm (18)
+Distance detector: Reflections: 3. Seq. nr: 166. (100-600 mm): 133 mm (186), 140 mm (105), 383 mm (18)
+Distance detector: Reflections: 2. Seq. nr: 167. (100-600 mm): 129 mm (155), 138 mm (82)
+Distance detector: Reflections: 4. Seq. nr: 168. (100-600 mm): 111 mm (24), 123 mm (37), 131 mm (121), 138 mm (67)
+Distance detector: Reflections: 6. Seq. nr: 169. (100-600 mm): 109 mm (35), 115 mm (16), 123 mm (37), 131 mm (80), 139 mm (25), 383 mm (10)
+Distance detector: Reflections: 3. Seq. nr: 170. (100-600 mm): 109 mm (119), 128 mm (84), 139 mm (28)
+Distance detector: Reflections: 4. Seq. nr: 171. (100-600 mm): 109 mm (51), 116 mm (43), 129 mm (166), 139 mm (89)
+Distance detector: Reflections: 2. Seq. nr: 172. (100-600 mm): 127 mm (87), 136 mm (37)
+Distance detector: Reflections: 7. Seq. nr: 173. (100-600 mm): 124 mm (36), 130 mm (54), 137 mm (43), 178 mm (105), 188 mm (73), 377 mm (31), 383 mm (16)
+Distance detector: Reflections: 4. Seq. nr: 174. (100-600 mm): 129 mm (25), 138 mm (17), 175 mm (82), 197 mm (1294)
+Distance detector: Reflections: 2. Seq. nr: 175. (100-600 mm): 177 mm (25), 198 mm (1188)
+Distance detector: Reflections: 1. Seq. nr: 176. (100-600 mm): 199 mm (948)
+Distance detector: Reflections: 2. Seq. nr: 177. (100-600 mm): 201 mm (589), 206 mm (494)
+Distance detector: Reflections: 3. Seq. nr: 178. (100-600 mm): 198 mm (340), 205 mm (215), 214 mm (97)
+Distance detector: Reflections: 5. Seq. nr: 179. (100-600 mm): 196 mm (208), 206 mm (59), 239 mm (257), 253 mm (64), 257 mm (31)
+Distance detector: Reflections: 4. Seq. nr: 180. (100-600 mm): 186 mm (22), 193 mm (86), 199 mm (68), 241 mm (85)
+Distance detector: Reflections: 0. Seq. nr: 181. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 182. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 183. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 184. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 185. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 186. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 187. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 188. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 189. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 190. (100-600 mm): 
+Distance detector: Reflections: 0. Seq. nr: 191. (100-600 mm): 
+Distance detector: Reflections: 1. Seq. nr: 192. (100-600 mm): 478 mm (16)
+Distance detector: Reflections: 1. Seq. nr: 193. (100-600 mm): 479 mm (33)
+Distance detector: Reflections: 1. Seq. nr: 194. (100-600 mm): 479 mm (41)
+Distance detector: Reflections: 1. Seq. nr: 195. (100-600 mm): 477 mm (14)
+Distance detector: Reflections: 1. Seq. nr: 196. (100-600 mm): 481 mm (22)
+Distance detector: Reflections: 1. Seq. nr: 197. (100-600 mm): 380 mm (37)
+Distance detector: Reflections: 0. Seq. nr: 198. (100-600 mm): 
+reflection data not properly retrieved
+Distance detector: Reflections: 1. Seq. nr: 199. (100-600 mm): 380 mm (12)
+Distance detector: Reflections: 0. Seq. nr: 200. (100-600 mm): 
