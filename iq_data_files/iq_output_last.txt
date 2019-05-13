@@ -1,0 +1,10 @@
+[Sweep Start] 100 mm 
+[Sweep Length] 400 mm 
+[Sensor Gain Factor] 100 % 
+Free space absolute offset: 1 mm
+Actual start: 99 mm
+Actual length: 400 mm
+Actual end: 499 mm
+Data length: 827
+IQ result_info->sequence_number: 1
+IQ data in polar coordinates (r, phi):
