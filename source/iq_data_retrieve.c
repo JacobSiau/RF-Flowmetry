@@ -9,6 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 #include "acc_driver_hal.h"
 #include "acc_log.h"
 #include "acc_rss.h"
@@ -18,12 +19,17 @@
 #include "acc_version.h"
 
 static acc_service_status_t execute_iq_with_blocking_calls(acc_service_configuration_t iq_configuration);
+void formatAsTimeUTC(char *output);
+
 static acc_hal_t hal;
 FILE *data_file;
 FILE *output_file;
 
 int main(int argc, char** argv)
 {   
+	char current_time[100];
+	formatAsTimeUTC(current_time);
+
 	// the locations of the files to write the output and data to
 	char data_file_name[1000] = "/home/pi/Documents/rpi_xc111/iq_data_files/iq_data_last.txt";
 	char output_file_name[1000] = "/home/pi/Documents/rpi_xc111/iq_data_files/iq_output_last.txt";
@@ -62,6 +68,10 @@ int main(int argc, char** argv)
         }
     }
 
+	fprintf(output_file, "[[[[[[BEGIN IQ DATA TEST]]]]]]\n");
+	fprintf(output_file, "Acconeer software version %s\n", ACC_VERSION);
+	fprintf(output_file, "Acconeer RSS version %s\n", acc_rss_version());
+	fprintf(output_file, "Current local time and date info: %s\n", current_time);
     fprintf(output_file, "[Sweep Start] %u mm \n", (unsigned int) (sweep_start_m * 1000.0f));
     fprintf(output_file, "[Sweep Length] %u mm \n", (unsigned int) (sweep_length_m * 1000.0f));
     fprintf(output_file, "[Sensor Gain Factor] %u %% \n", (unsigned int) (sensor_gain_scale_factor * 100.0f));
@@ -157,14 +167,13 @@ acc_service_status_t execute_iq_with_blocking_calls(acc_service_configuration_t 
 
 			if (service_status == ACC_SERVICE_STATUS_OK)
 			{
-				// uncomment these if you want output data written to output_file as well
-				fprintf(output_file, "IQ result_info->sequence_number: %u\n", (unsigned int)result_info.sequence_number);
-				fprintf(output_file, "IQ data in polar coordinates (r, phi):\n");
+				fprintf(output_file, "IQ result_info -> sequence_number: %u\n", (unsigned int)result_info.sequence_number);
+				fprintf(output_file, "IQ data in cartesian coordinates (x, iy):\n");
 				for (uint_fast16_t index = 0; index < iq_metadata.data_length; index++)
 				{
-					// uncomment these if you want output data written to output_file as well
-					// fprintf(output_file, "%" PRIfloat ", %" PRIfloat "\n", ACC_LOG_FLOAT_TO_INTEGER(crealf(iq_data[index])),
-			        //     ACC_LOG_FLOAT_TO_INTEGER(cimagf(iq_data[index])));
+					// uncomment/comment these if you want output data written/not written to output_file as well
+					fprintf(output_file, "%" PRIfloat ", %" PRIfloat "\n", ACC_LOG_FLOAT_TO_INTEGER(crealf(iq_data[index])),
+			            ACC_LOG_FLOAT_TO_INTEGER(cimagf(iq_data[index])));
                     fprintf(data_file, "%" PRIfloat ", %" PRIfloat "\n", ACC_LOG_FLOAT_TO_INTEGER(crealf(iq_data[index])),
 			            ACC_LOG_FLOAT_TO_INTEGER(cimagf(iq_data[index])));
 				}
@@ -177,6 +186,30 @@ acc_service_status_t execute_iq_with_blocking_calls(acc_service_configuration_t 
 		}
 		service_status = acc_service_deactivate(handle);
 	}
+	else 
+	{
+		fprintf(output_file, "[ERROR] acc_service_activate() %u => %s\n",
+				(unsigned int) service_status, acc_service_status_name_get(service_status));
+	}
 	acc_service_destroy(&handle);
 	return service_status;
+}
+
+// Reference: https://stackoverflow.com/a/30521446
+void formatAsTimeUTC(char *output) 
+{
+	time_t rawtime;
+	struct tm *timeinfo;
+	time(&rawtime);
+	timeinfo = localtime(&rawtime);
+	sprintf(
+		output,
+		"%d/%d/%d, %d:%d:%d UTC",
+		timeinfo->tm_mday,
+		timeinfo->tm_mon+1,
+		timeinfo->tm_year+1900,
+		timeinfo->tm_hour,
+		timeinfo->tm_min,
+		timeinfo->tm_sec
+	);
 }
